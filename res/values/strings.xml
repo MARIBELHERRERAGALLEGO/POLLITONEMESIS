@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Maribeljava</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_maribeljava">Maribeljava</string>
+    <string name="title_activity_maribel2">Maribel2</string>
+
+</resources>
